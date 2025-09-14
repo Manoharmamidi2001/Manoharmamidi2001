@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me  
 - 🌱 Building modern apps with **Next.js, React, Redux Toolkit, Tailwind CSS**  
-- 🛠️ Skilled in **HTML, CSS, JavaScript, TypeScript**  
+- 🛠️ Skilled in **HTML, CSS, JavaScript**  
 - ⚡ Backend expertise: **Node.js, Express**  
 - 🗄️ Databases: **MongoDB, SQL**  
 - 📈 Passionate about creating scalable and user-friendly web solutions  
