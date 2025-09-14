@@ -70,10 +70,7 @@
 ---
 
 ### 📊 GitHub Stats  
-![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoharmamidi2001&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoharmamidi2001&layout=compact&theme=tokyonight)  
-
+![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoharmamidi2001&show_icons=true&theme=tokyonight)
 ---
 
 ✨ _"Turning ideas into interactive web apps with Next.js & MERN."_ ✨
