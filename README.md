@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Manoharmamidi2001&label=Profile%20Views&color=0e75b6&style=flat)  
 
-💻 **Full Stack Developer** | 🚀 Specializing in Next.js & MERN Stack  
+💻 **Full Stack Developer** | 🚀 Specialized in Next.js & MERN Stack  
 
 ---
 
