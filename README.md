@@ -2,12 +2,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Manoharmamidi2001&label=Profile%20Views&color=0e75b6&style=flat)  
 
-💻 **Front End Developer** | 🚀 Specialized in Next.js & React, Redux  
+💻 **Full Stack Developer** | 🚀 Specialized in Next.js, Node, Express & React, Redux  
 
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 Building modern apps with **Next.js, React, Redux Toolkit, Tailwind CSS**  
+- 🌱 Building modern apps with **Next.js, Node.js, express.js, MongoDB, React, Redux Toolkit, Tailwind CSS**  
 - 🛠️ Skilled in **HTML, CSS, JavaScript**  
 - ⚡ Backend expertise: **Node.js, Express**  
 - 🗄️ Databases: **MongoDB, SQL**  
